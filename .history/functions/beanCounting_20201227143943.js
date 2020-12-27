@@ -1,0 +1,7 @@
+function countBs(){
+
+} 
+function countChars(){
+
+} 
+
